@@ -1,2 +1,2 @@
-# TemplateRepository
-This repository is a template for new repositories.
+# Framework.WPF
+Library with useful functions and classes for a WPF application.
